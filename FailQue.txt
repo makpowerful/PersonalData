@@ -1,0 +1,10 @@
+QA questions
+What is RTM
+What is a Test Plan
+What is a Test Strategy
+Salesforce questions
+what are flows
+What is difference between a role and profile
+What is workbench
+What is different type of relationship in salesforce
+
